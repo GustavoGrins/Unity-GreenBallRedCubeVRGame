@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVRandUnity", "Assembly-CSharp.csproj", "{0DEF8725-3142-2025-7D00-7B00DA3E8D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamVRandUnity", "Assembly-CSharp-Editor.csproj", "{3F0CE5A6-28F4-A99A-5B4C-F301C318BB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DEF8725-3142-2025-7D00-7B00DA3E8D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEF8725-3142-2025-7D00-7B00DA3E8D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEF8725-3142-2025-7D00-7B00DA3E8D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEF8725-3142-2025-7D00-7B00DA3E8D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0CE5A6-28F4-A99A-5B4C-F301C318BB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0CE5A6-28F4-A99A-5B4C-F301C318BB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0CE5A6-28F4-A99A-5B4C-F301C318BB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0CE5A6-28F4-A99A-5B4C-F301C318BB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
